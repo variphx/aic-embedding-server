@@ -7,8 +7,5 @@ requires-python = ">=3.12"
 dependencies = [
   "grpcio>=1.74.0",
   "grpcio-tools>=1.74.0",
-  "llm2vec>=0.2.1",
-  "multilingual-clip>=1.0.10",
-  "torch>=2.8.0",
-  "transformers>=4.55.4",
+  "requests>=2.32.5",
 ]
